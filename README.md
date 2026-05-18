@@ -12,7 +12,7 @@ This leads to a constraint-based framework in which classical spacetime, observe
 
 ## Main Themes
 
-- Persistent global uncertainty
+- - **[The Persistent Uncertainty Law](https://doi.org/10.5281/zenodo.19691111)** — A constraint law stating that global uncertainty cannot be eliminated, only locally reduced.
 - Operational admissibility
 - Finite observers and horizon-bounded domains
 - Locality from finite record access
