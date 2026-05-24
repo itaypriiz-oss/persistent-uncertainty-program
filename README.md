@@ -42,6 +42,8 @@ Papers are archived on Zenodo with DOIs.
 
 ## Additional Papers
 
+Priiz, I. (2026). Polymorphic Coherence and Vacuum Decay as an Admissibility-Basin Transition. Zenodo. https://doi.org/10.5281/zenodo.20364177
+
 - **[Holoscription: Local Record Structure and the Emergence of Phase](https://doi.org/10.5281/zenodo.20087428)**
 - **[Metastable Membrane Dynamics in Finite-Observer Coherence Networks: A Conservative Numerical Study of Few-Percent Coherence Spread, Threshold Support, Adaptive Recovery, Shell Response, and Residual Texture](https://doi.org/10.5281/zenodo.20233900)**
 
